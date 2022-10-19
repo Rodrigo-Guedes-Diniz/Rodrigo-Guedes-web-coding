@@ -1,0 +1,5 @@
+1 - salada
+2 - Pizza
+3 - Abacaxi
+4 - Pizza
+5 - Lasanha
